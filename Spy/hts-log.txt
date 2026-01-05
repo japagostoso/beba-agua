@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Jan 2026 18:09:16 at https://aplicativospypro.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://aplicativospypro.vercel.app/ -O1 "C:\Meus Sites\Spy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:09:22	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/images/design-mode/Imagem do WhatsApp de 2025-08-19 à(s) 18.18.59_211b6348.jpg.jpeg (from https://aplicativospypro.vercel.app/)
+18:09:22	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/images/design-mode/Imagem do WhatsApp de 2025-08-19 à(s) 18.18.59_1202729e.jpg.jpeg (from https://aplicativospypro.vercel.app/)
+18:09:25	Warning: 	Permanent Redirect for https://aplicativospypro.vercel.app/signals/config/
+18:09:25	Warning: 	File has moved from https://aplicativospypro.vercel.app/signals/config/ to /signals/config
+18:09:26	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/t (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:26	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/e (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:26	Warning: 	Permanent Redirect for https://aplicativospypro.vercel.app/signals/plugins/
+18:09:26	Warning: 	File has moved from https://aplicativospypro.vercel.app/signals/plugins/ to /signals/plugins
+18:09:26	Warning: 	Permanent Redirect for https://aplicativospypro.vercel.app/schema.org/
+18:09:26	Warning: 	File has moved from https://aplicativospypro.vercel.app/schema.org/ to /schema.org
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/o (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/r.dl (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/r.rl (from https://connect.facebook.net/en_US/fbevents.js)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/signals/config (from https://aplicativospypro.vercel.app/signals/config/)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/signals/plugins (from https://aplicativospypro.vercel.app/signals/plugins/)
+18:09:27	Error: 	"Not Found" (404) at link https://aplicativospypro.vercel.app/schema.org (from https://aplicativospypro.vercel.app/schema.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 30 links scanned, 13 files written (1051821 bytes overall) [456015 bytes received at 41455 bytes/sec], 1112828 bytes transferred using HTTP compression in 23 files, ratio 28%
+(13 errors, 6 warnings, 0 messages)
